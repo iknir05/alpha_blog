@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
 
-	def method_name
+	def test
 		
 	end
 end
